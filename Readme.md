@@ -1,6 +1,7 @@
 👥 Team Details
 
 Vinay Karna – Team Lead
+
 Led the project from concept to completion, managing coordination, task division, and overall architecture design.
 Responsibilities:
 
@@ -16,6 +17,7 @@ Responsibilities:
 
 
 Saksham Pahariya – Frontend Developer
+
 Developed the frontend dashboard for visualizing insights from the processed data.
 Responsibilities:
 
@@ -31,6 +33,7 @@ Responsibilities:
 
 
 Anand Marimuthu – Data Engineer
+
 Focused on dataset preparation and loading, ensuring that clean and structured data was stored properly in Supabase.
 Responsibilities:
 
@@ -46,6 +49,7 @@ Responsibilities:
 
 
 Yasir Mondal – Backend & Automation Developer
+
 Developed the backend automation that ensures continuous data synchronization between Supabase and Elasticsearch.
 Responsibilities:
 
