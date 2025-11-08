@@ -14,6 +14,7 @@ Oversaw integration between FastAPI, Prefect, Supabase, and Elasticsearch.
 
 
 
+
 Saksham Pahariya – Frontend Developer
 Developed the frontend dashboard for visualizing insights from the processed data.
 Responsibilities:
@@ -28,6 +29,7 @@ Ensured the dashboard’s responsiveness and smooth data rendering.
 
 
 
+
 Anand Marimuthu – Data Engineer
 Focused on dataset preparation and loading, ensuring that clean and structured data was stored properly in Supabase.
 Responsibilities:
@@ -39,6 +41,7 @@ Loaded and organized the cleaned datasets into Supabase.
 Ensured schema consistency and validated data quality.
 
 Supported the backend integration by maintaining accessible and well-structured data tables.
+
 
 
 
