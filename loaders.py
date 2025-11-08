@@ -81,4 +81,4 @@ def scheduled_sync(interval_minutes=60):
 
 if __name__ == "__main__":
     # change interval_minutes=10 for faster testing
-    scheduled_sync(interval_minutes=30)
+    scheduled_sync(interval_minutes=60)
